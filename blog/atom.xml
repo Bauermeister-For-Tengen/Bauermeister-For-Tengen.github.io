@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bauermeister-for-tengen.github.io/blog</id>
+    <title>Ein Bauermeister für Tengen Blog</title>
+    <updated>2022-02-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bauermeister-for-tengen.github.io/blog"/>
+    <subtitle>Ein Bauermeister für Tengen Blog</subtitle>
+    <icon>https://bauermeister-for-tengen.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Go Live]]></title>
+        <id>live</id>
+        <link href="https://bauermeister-for-tengen.github.io/blog/live"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meine Kampagnenseite ist nun in ihren Grundzügen freigeschaltet.]]></summary>
+        <content type="html"><![CDATA[<p>Meine Kampagnenseite ist nun in ihren Grundzügen freigeschaltet.
+Über das Wochenende werde ich noch weitere stilistische Änderungen
+durchführen, sowie inhaltlich erweitern.</p><p>Ein schönes Wochenende wünscht,</p><p><strong>Markus Bauermeister,</strong> <br>
+Ihr Kandidat für das Tengener Bürgermeisteramt</p>]]></content>
+        <author>
+            <name>Markus Bauermeister</name>
+            <uri>https://twitter.com/B_For_Tengen</uri>
+        </author>
+        <category label="willkommen" term="willkommen"/>
+        <category label="kampagnenstart" term="kampagnenstart"/>
+        <category label="bürgermeisterwahl" term="bürgermeisterwahl"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Willkommen auf meiner Kampagnenseite]]></title>
+        <id>willkommen</id>
+        <link href="https://bauermeister-for-tengen.github.io/blog/willkommen"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Willkommen auf meiner Webseite.]]></summary>
+        <content type="html"><![CDATA[<p>Willkommen auf meiner Webseite.
+Ich bin zur Bürgermeisterwahl am 5. März in Tengen angetreten,
+weil ich an Veränderung und Transparenz glaube.</p><p>Der Bürger ist mir wichtig und ich möchte den Kurs "Open Government"
+nicht nur einfach fortführen sondern noch deutlich verstärken.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="zu-meiner-person">Zu meiner Person<a class="hash-link" href="#zu-meiner-person" title="Direkter Link zur Überschrift">​</a></h3><p>Ich bin 34 Jahre alt, geboren in Dresden, aufgewachsen in Ludwigsburg.
+Ich verfüge über ein Wirtschaftsstudium und habe, desweiteren, eine weitere Ausbildung
+im Bereich Softwareentwicklung erlangt.
+Mit letzterem bin ich nun bereits seit 2012 in der Branche tätig.</p><p>Zuerst bei der Handwerkskammer Konstanz, wo ich enge Kontakte zu den Leitern der Bildungsakademien in Singen und Waldshut hegte und bereits einiges an Erfahrung im administrativen Bereich sammeln durfte. Anschließend war ich lange Jahre als In-House Softwareingenieur bei der Firma Sto SE &amp; Co. KGaA. tätig.
+Inzwischen arbeite ich für ein mittelgroßes Versicherungsunternehmen.</p><p>Zeitweise war ich auch als Voluntär bei Mozilla tätig und habe diese u. a. beim MozFest 2018 in London vertreten (mein Lieblingsbrowser steht damit schonmal fest 🦊)</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="auslandserfahrung">Auslandserfahrung<a class="hash-link" href="#auslandserfahrung" title="Direkter Link zur Überschrift">​</a></h3><p>Zwischen 2016 und 2020 reiste ich regelmäßig in die USA.
+Hier war ich, neben Erlebnisreisen die mich durch 18 Staaten + DC führten, auch politisch aktiv
+und in eine kleine Gemeinschaft von Demokraten (später auch Republikaner) integriert.</p><p>Was mich an den USA damals fasziniert hat, ist die Geschwindigkeit mit der gewisse Dinge
+(bspw. beim Straßen- und Netzausbau) umgesetzt werden, sowie die enorme internet Bandbreite
+selbst auf dem Land.</p><p>In den Staaten traf ich ebenfalls meine, mittlerweile verstorbene, Verlobte.
+Nach ihrem Unfalltod zog ich mich eine Weile aus dem öffentlichen Leben zurück,
+was ich nun ändern möchte. Da meine Verlobte ebenfalls sehr stark politisch aktiv
+war, ist es für mich auch ein wenig so wie den gemeinsam gehegten Traum zu erfüllen.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="politisches">Politisches<a class="hash-link" href="#politisches" title="Direkter Link zur Überschrift">​</a></h3><p>Seit Mai 2022 bin ich Mitglied bei der Partei Die Linke.
+Zu diesem Entschluss bin ich damals insbesondere deswegen gekommen,
+weil ich mich politisch einbringen wollte ohne zu sehr ideologisch
+vereinnahmt zu werden.
+Bei den großen Volksparteien ist der Kurs meist vorgegeben, während mir
+bei der Linken ein großer Entfaltungsspielraum geboten wurde.</p><p>Politisch sehe ich mich nicht als hardcore-Links <br>
+(persönlich sehe ich mich in der Tradition eines Helmut Schmidt, Teddy Roosevelt oder eines Huey Long) <br>
+und an dem bevorstehenden Wahlkampf
+werde ich ohne Unterstützung meiner Partei teilnehmen.
+Innerparteiliche Interessen lassen sich, meiner Meinung nach, nicht mit dem Amt des Bürgermeisters vereinen.</p>]]></content>
+        <author>
+            <name>Markus Bauermeister</name>
+            <uri>https://twitter.com/B_For_Tengen</uri>
+        </author>
+        <category label="willkommen" term="willkommen"/>
+        <category label="kampagnenstart" term="kampagnenstart"/>
+        <category label="bürgermeisterwahl" term="bürgermeisterwahl"/>
+    </entry>
+</feed>
