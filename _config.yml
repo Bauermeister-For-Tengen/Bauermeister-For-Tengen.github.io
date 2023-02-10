@@ -1,4 +1,4 @@
-utc: "2023-02-10 22:00:00 +0200" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
+utc: "2023-02-10 20:00:00 +0200" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
 name: "Willkommen auf der Kampagnenseite von Markus Bauermeister, Kandidat um das Amt des Bürgermeisters von Tengen" #Required. The human-readable name of the event
 logo: logo.svg #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
 description: "Markus Bauermeister (33) Tritt zum Wahlkampf für das Amt des Bürgermeisters von Tengen an"
