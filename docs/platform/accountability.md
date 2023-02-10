@@ -1,0 +1,22 @@
+---
+sidebar_position: 3
+---
+
+# Rechenschaftspflicht
+
+**Transparenz gegenüber den Bürgern**
+
+Mir war Zeit meines Lebens Transparenz immer sehr wichtig und, als Privatbürger,
+hatte ich oft das Gefühl dass die Politik nicht immer transparent genug war.
+
+Budgetpläne sind oft schwer zugänglich oder nicht gut genug erklärt.
+Eine einfache, verständliche Darstellung fehlt meist.
+
+Auch in anderen Bereichen wird der Bürger nicht immer zeitgenau eingebunden,
+wobei ich bei dem Open Government Konzept der Stadt Tengen eine große Chance sehe.
+
+:::caution ‎
+Als Bürgermeister möchte ich das Open Government Konzept konsequent weiterführen und erweitern.
+Sollte mir das Glück widerfahren den Bürgern der Stadt Tengen als ihr neuer Bürgermeister zu dienen,
+werde ich dafür sorgen, dass alle Zahlen, Daten und Fakten einfach und verständlich digital abrufbar sind.
+:::
