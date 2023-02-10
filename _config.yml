@@ -1,0 +1,15 @@
+utc: "2023-02-10 22:00:00 +0200" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
+name: "Willkommen auf der Kampagnenseite von Markus Bauermeister, Kandidat um das Amt des Bürgermeisters von Tengen" #Required. The human-readable name of the event
+logo: logo.svg #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
+description: "Markus Bauermeister (33) Tritt zum Wahlkampf für das Amt des Bürgermeisters von Tengen an"
+externalLink: "https://bauermeister-for-tengen.github.io"
+ #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
+url: "http://countdown.yourdomain.com" #(Optional) the full URL for this countdown page. This is neccesary for facebook share previews
+facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
+hashtag: "" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
+colors: #(Optional)
+  background: "#FFF" #color of the background of the page
+  primary: "#3FBFBC" #primary color for the page
+  secondary: "#EE4823" #secondary color for the page
+  textcolor: "#FFF" #color of the text, which is overlayed on the primary color
+fontfamily: "'Open Sans', sans-serif" #optional
