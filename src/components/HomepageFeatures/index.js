@@ -38,7 +38,7 @@ export default class HomepageFeatures extends React.Component {
         },
         {
           title: "Lösungen",
-          Svg: require('@site/static/img/logo.svg').default,
+          Svg: profile,
           background: "whitesmoke",
           description: (
             <>
