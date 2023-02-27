@@ -60,7 +60,7 @@ const config = {
         title: "Ein Bauermeister für Tengen",
         logo: {
           alt: "Bauermeister für Tengen Logo",
-          src: "img/logo.svg",
+          src: "img/logo_new.svg",
         },
         items: [
           {
