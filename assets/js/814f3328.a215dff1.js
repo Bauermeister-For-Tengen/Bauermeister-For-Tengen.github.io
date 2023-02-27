@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbauermeister_for_tengen=self.webpackChunkbauermeister_for_tengen||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Go Live","permalink":"/blog/live"},{"title":"Willkommen auf meiner Kampagnenseite","permalink":"/blog/willkommen"}]}')}}]);
