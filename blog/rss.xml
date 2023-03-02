@@ -4,10 +4,23 @@
         <title>Ein Bauermeister für Tengen Blog</title>
         <link>https://bauermeister-for-tengen.github.io/blog</link>
         <description>Ein Bauermeister für Tengen Blog</description>
-        <lastBuildDate>Thu, 02 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 21:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[Erstwählerforum der Tengener Jugend]]></title>
+            <link>https://bauermeister-for-tengen.github.io/blog/erstwahl</link>
+            <guid>erstwahl</guid>
+            <pubDate>Thu, 02 Mar 2023 21:27:48 GMT</pubDate>
+            <description><![CDATA[Ich möchte mich hiermit herzlich bei allen Beteiligten des Erstwählerforums am heutigen Abend bedanken.]]></description>
+            <content:encoded><![CDATA[<p>Ich möchte mich hiermit herzlich bei allen Beteiligten des Erstwählerforums am heutigen Abend bedanken.
+Als Kandidat habe ich mich von der Tengener Jugend sehr gut aufgenommen gefühlt.</p><p>Sollte mir die Ehre zu Teil werden, Tengen zukünftig als Bürgermeister zu vertreten, freue ich mich auf eine
+enge Zusammenarbeit und viele spannende Projekte.</p><p>Ich habe von diesem Abend viele Informationen mit nach Hause genommen und hoffe, dass ich einen Teil meiner eigenen Vision
+vermitteln konnte.</p><p>Ich wünsche allen eine ruhige und besinnliche Nacht und hoffe auf eine rege Wahlbeteiligung.</p>]]></content:encoded>
+            <category>erstwähler</category>
+            <category>bürgermeisterwahl</category>
+        </item>
         <item>
             <title><![CDATA[Bücherspende am Donnerstag den 2. März 2023]]></title>
             <link>https://bauermeister-for-tengen.github.io/blog/spenden</link>
