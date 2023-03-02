@@ -4,10 +4,22 @@
         <title>Ein Bauermeister für Tengen Blog</title>
         <link>https://bauermeister-for-tengen.github.io/blog</link>
         <description>Ein Bauermeister für Tengen Blog</description>
-        <lastBuildDate>Fri, 24 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[Bücherspende am Donnerstag den 2. März 2023]]></title>
+            <link>https://bauermeister-for-tengen.github.io/blog/spenden</link>
+            <guid>spenden</guid>
+            <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Am heutigen Donnerstag möchte ich der Stadtbibliothek auf der Ludwig-Gerer-Straße 65 in Tengen etwas Gutes]]></description>
+            <content:encoded><![CDATA[<p>Am heutigen Donnerstag möchte ich der Stadtbibliothek auf der Ludwig-Gerer-Straße 65 in Tengen etwas Gutes
+tun und bitte Sie, den Bürgern, mir es gleich zu tun.</p><p>Die Leseratten der näheren Umgebung würden sich sicherlich über ein paar neue und interessante Bücher
+freuen.</p><p>Selbst die Bücher, die auf Grund von Platzmangel oder des äußeren Zustands, nicht der Bibliothek beigesteuert
+werden können, finden so sicherlich schnell in einem privaten Haushalt eine neue Heimat.</p><p>Es bedankt sich für die Aufmerksamkeit,</p><p><img loading="lazy" alt="Das Maskottchen der Aktion. Die Bücherkatze" src="/assets/images/library-edb741db1b854ac733dc7258b6b257ae.jpg" width="1080" height="717" class="img_ev3q"></p><p>Markus Bauermeister</p>]]></content:encoded>
+            <category>bücherspende</category>
+        </item>
         <item>
             <title><![CDATA[Go Live]]></title>
             <link>https://bauermeister-for-tengen.github.io/blog/live</link>

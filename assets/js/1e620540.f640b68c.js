@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbauermeister_for_tengen=self.webpackChunkbauermeister_for_tengen||[]).push([[2137],{6856:e=>{e.exports=JSON.parse('{"label":"b\xfccherspende","permalink":"/blog/tags/bucherspende","allTagsPath":"/blog/tags","count":1}')}}]);
