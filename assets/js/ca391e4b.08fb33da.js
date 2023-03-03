@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbauermeister_for_tengen=self.webpackChunkbauermeister_for_tengen||[]).push([[9580],{3133:e=>{e.exports=JSON.parse('{"label":"erstw\xe4hler","permalink":"/blog/tags/erstwahler","allTagsPath":"/blog/tags","count":2}')}}]);
