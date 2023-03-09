@@ -88,6 +88,13 @@ const config = {
             label: "Twitter",
             position: "right",
           },
+          {
+            href: "https://www.youtube.com/channel/UCsBMrpfNUJ9cig2FOOtDTXQ",
+            // className: "header-youtube-link",
+            "aria-label": "YouTube",
+            label: "YouTube",
+            position: "right",
+          },
         ],
       },
       footer: {
@@ -117,6 +124,10 @@ const config = {
               {
                 label: "Twitter",
                 href: "https://twitter.com/B_For_Tengen",
+              },
+              {
+                label: "YouTube",
+                href: "https://www.youtube.com/channel/UCsBMrpfNUJ9cig2FOOtDTXQ",
               },
             ],
           },
