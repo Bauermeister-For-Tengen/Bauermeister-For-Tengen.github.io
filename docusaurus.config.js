@@ -75,6 +75,7 @@ const config = {
             label: "Plattform",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/events", label: "Veranstaltungen", position: "left" },
           {
             href: "https://github.com/bauermeister-for-tengen",
             className: "header-github-link",
