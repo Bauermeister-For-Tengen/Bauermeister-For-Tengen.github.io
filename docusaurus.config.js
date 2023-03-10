@@ -119,6 +119,10 @@ const config = {
                 to: "/blog",
               },
               {
+                label: "Veranstaltungen",
+                to: "/events",
+              },
+              {
                 label: "GitHub",
                 href: "https://github.com/bauermeister-for-tengen",
               },
@@ -128,7 +132,7 @@ const config = {
               },
               {
                 label: "YouTube",
-                href: "https://www.youtube.com/channel/UCsBMrpfNUJ9cig2FOOtDTXQ",
+                href: "https://www.youtube.com/@b_for_tengen",
               },
             ],
           },
