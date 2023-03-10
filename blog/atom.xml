@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bauermeister-for-tengen.github.io/blog</id>
     <title>Ein Bauermeister für Tengen Blog</title>
-    <updated>2023-03-03T00:00:00.000Z</updated>
+    <updated>2023-03-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bauermeister-for-tengen.github.io/blog"/>
     <subtitle>Ein Bauermeister für Tengen Blog</subtitle>
     <icon>https://bauermeister-for-tengen.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wahlveranstaltungen der nächsten Tage + Soziale Medien]]></title>
+        <id>eventnews</id>
+        <link href="https://bauermeister-for-tengen.github.io/blog/eventnews"/>
+        <updated>2023-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nachdem es nun zu einer Nachwahl kommt und ich mich noch einmal richtig ins Zeuge lege,]]></summary>
+        <content type="html"><![CDATA[<p>Nachdem es nun zu einer Nachwahl kommt und ich mich noch einmal richtig ins Zeuge lege,
+möchte ich hiermit auf meine anstehenden <a href="https://bauermeister-for-tengen.de/events" target="_blank" rel="noopener noreferrer">Veranstaltungstermine</a> hinweisen.</p><p>Heute Abend stehe ich ab 18:30 Uhr im Fußballvereinsheim für Fragen und einen besinnlichen Abend zur Verfügung.
+Am Sonntag besuche ich den Josefmarkt und am Abend ab 18 Uhr die Bibermühle in Blumenfeld.</p><p>Nächste Woche werde ich vorallem die Stammtische frequentieren, wobei sich ein Vorbeischauen schon auf Grund
+der Geselligkeit lohnt.</p><p>Alle Termine können Sie dem <a href="https://bauermeister-for-tengen.de/events" target="_blank" rel="noopener noreferrer">Veranstaltungskalender</a> entnehmen.</p><p>Desweiteren steht mittlerweile mein <a href="https://www.youtube.com/@b_for_tengen" target="_blank" rel="noopener noreferrer">YouTube Kanal</a>
+und wird die nächsten Tage fleißig mit Inhalten befüllt werden.</p><p><em>Gismo</em> würde auch am liebsten nach Tengen fahren, wie ich tagtäglich beim Verlassen des Hauses feststellen darf.</p><img loading="lazy" src="/img/gismo3.jpg" width="30%" class="img_ev3q"><img loading="lazy" src="/img/gismo4.jpg" width="30%" class="img_ev3q">]]></content>
+        <author>
+            <name>Markus Bauermeister</name>
+            <uri>https://twitter.com/B_For_Tengen</uri>
+        </author>
+        <category label="erstwähler" term="erstwähler"/>
+        <category label="bürgermeisterwahl" term="bürgermeisterwahl"/>
+        <category label="gismo" term="gismo"/>
+        <category label="nachwahl" term="nachwahl"/>
+        <category label="youtube" term="youtube"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verabschiedung ins Wochenende und ein paar Herzensangelegenheiten]]></title>
         <id>wahlwochenende</id>

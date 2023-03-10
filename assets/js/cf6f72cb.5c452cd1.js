@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbauermeister_for_tengen=self.webpackChunkbauermeister_for_tengen||[]).push([[9594],{5211:e=>{e.exports=JSON.parse('{"label":"nachwahl","permalink":"/blog/tags/nachwahl","allTagsPath":"/blog/tags","count":1}')}}]);
